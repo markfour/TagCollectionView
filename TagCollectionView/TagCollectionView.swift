@@ -8,11 +8,11 @@
 import UIKit
 
 final class TagCollectionView: UICollectionView {
-  static func instance(frame: CGRect) {
+  static func instance(frame: CGRect) -> TagCollectionView {
     let view = TagCollectionView(frame: frame,
                                  collectionViewLayout: UICollectionViewLayout())
     view.dataSource = view
-    return
+    return view
   }
 }
 
