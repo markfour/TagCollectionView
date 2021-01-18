@@ -61,11 +61,11 @@
 				A0F5667425B5DB0500278583 /* AppDelegate.swift */,
 				A0F5667625B5DB0500278583 /* SceneDelegate.swift */,
 				A0F5667825B5DB0500278583 /* ViewController.swift */,
+				A0F5668B25B5DCFA00278583 /* TagCollectionView.swift */,
 				A0F5667A25B5DB0500278583 /* Main.storyboard */,
 				A0F5667D25B5DB0700278583 /* Assets.xcassets */,
 				A0F5667F25B5DB0700278583 /* LaunchScreen.storyboard */,
 				A0F5668225B5DB0700278583 /* Info.plist */,
-				A0F5668B25B5DCFA00278583 /* TagCollectionView.swift */,
 			);
 			path = TagCollectionView;
 			sourceTree = "<group>";
